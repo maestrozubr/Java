@@ -1,0 +1,9 @@
+{
+    "param_int": 12,
+    "param_string": "string";
+    "param_boolean": true,
+    "param_double": 12.0,
+    "param_array": [
+        { "firstName": "Ivan", "lastName": "Ivanov" }
+    ]
+ }
